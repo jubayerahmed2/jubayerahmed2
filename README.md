@@ -1,4 +1,4 @@
-# Welcome to [Jubayer Ahmed's](https://jubayerahmed46.me/) profile! <a href="https://www.jubayerahmed46.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Jubayer Ahmed's] profile! <a href="https://www.jubayerahmed46.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/jubayer-ahmed-774449332/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
@@ -22,7 +22,7 @@ That's why I like to make things that make a difference.
 - 🌱 I'm currently learning:
   - React.js, Node.js, Express.js
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 📬 How to reach me: [aswin2001barath@gmail.com](jubayerahmed.dev@gmail.com)
+- 📬 How to reach me: [jubayerahmed.dev@gmail.com](jubayerahmed.dev@gmail.com)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/jubayerahmed46" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jubayerahmed46" height="30" width="40" /></a>
@@ -79,7 +79,7 @@ That's why I like to make things that make a difference.
 React       15 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 %
 Express      5 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 %
 JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-Node          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Node          3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
@@ -107,6 +107,4 @@ Node          3 mins          ░░░░░░░░░░░░░░░░�
 
 ---
 
-```text
-## Thank You for visiting
-```
+# [Thank You for visiting]
