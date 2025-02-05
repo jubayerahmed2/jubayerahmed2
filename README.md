@@ -31,9 +31,11 @@ I am a passionate Frontend Developer who loves to build user-friendly websites. 
 </p>
 
 ### Backend
-- <img src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" alt="Express.js" />
-- <img src="https://img.shields.io/badge/MongoDB-4DB33D.svg?logo=mongodb&logoColor=white" alt="MongoDB" />
-- <img src="https://img.shields.io/badge/JSON%20Web%20Token-000000.svg?logo=json-web-tokens&logoColor=white" alt="JWT" />
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p><br/>
 
 ### Tools
 - <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="Git" />
