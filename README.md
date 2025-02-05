@@ -47,14 +47,14 @@ Let’s connect and share ideas!
 
 ## GitHub Stats  
 <p align="center">
-  [![Jubayer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayerahmed46&show_icons=true&count_private=true&theme=react&hide_border=true)](https://github.com/jubayerahmed46)
+  <img src="https://github-readme-stats.vercel.app/api?username=jubayerahmed46&show_icons=true&count_private=true&theme=react&hide_border=true" alt="Jubayer's GitHub Stats" />
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerahmed46&langs_count=6&theme=react&hide_border=true)](https://github.com/jubayerahmed46)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerahmed46&langs_count=6&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ### Streaks  
 <p align="center">
-  ![Jubayer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmed46&theme=react&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmed46&theme=react&hide_border=true" alt="Jubayer's GitHub Streak" />
 </p>
 
 ## My Projects
