@@ -10,9 +10,9 @@ Hi! I'm a passionate **Frontend Developer** based in Bangladesh. I focus on crea
 
 ### Currently Working On:  
 - Deepening my understanding of **React Query** for state management.
-- Developing a personal blog using **React** and **Tailwind CSS**.
+- Developing a personal blog website using **React** and **Tailwind CSS**.
 - Exploring **Express.js** and **MongoDB** for backend development.
-- Implementing **JWT** for secure authentication in my applications.
+- Implementing advence **JWT** for secure authentication in my applications.
 
 ## Technology & Tools  
 
@@ -38,7 +38,6 @@ Hi! I'm a passionate **Frontend Developer** based in Bangladesh. I focus on crea
   <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="Git" width="40"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="VS Code" width="40"/>
   <img src="https://img.shields.io/badge/GitHub-20232A?logo=github&logoColor=white" alt="GitHub" width="40"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black" alt="Firebase" width="40"/>
 </p>
 
 ## Connect with Me  
