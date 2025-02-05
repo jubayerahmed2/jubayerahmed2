@@ -17,10 +17,13 @@ I am a passionate Frontend Developer who loves to build user-friendly websites. 
 ## Technology that I Use
 
 <br>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<p>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 
+</p>
+<p>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
