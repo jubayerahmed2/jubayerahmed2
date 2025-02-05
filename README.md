@@ -18,19 +18,19 @@ Hi! I'm a passionate **Frontend Developer** based in Bangladesh. I focus on crea
 
 ### Frontend  
 <p>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" width="40" height="40" alt="HTML"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" width="40" height="40" alt="CSS"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" width="40" height="40" alt="JavaScript"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" width="40" height="40" alt="React"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" width="40" height="40" alt="TailwindCSS"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" width="40" height="40" alt="Firebase"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" width="40" alt="HTML"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" width="40" alt="CSS"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" width="40" alt="JavaScript"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" width="40" alt="React"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" width="40" alt="TailwindCSS"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" width="40" alt="Firebase"/>
 </p>
 
 ### Backend  
 <p>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" width="40" height="40" alt="Node.js"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" width="40" height="40" alt="Express"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" width="40" height="40" alt="MongoDB"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" width="40" alt="Node.js"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" width="40" alt="Express"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" width="40" alt="MongoDB"/>
 </p>
 
 ### Tools & Platforms  
@@ -43,17 +43,9 @@ Hi! I'm a passionate **Frontend Developer** based in Bangladesh. I focus on crea
 ## Connect with Me  
 Let’s connect and share ideas!  
 
-<p align="center">
-  <a href="https://github.com/jubayerahmed46">
-    <img src="https://img.shields.io/badge/GitHub-20232A?logo=github&logoColor=white" alt="GitHub" width="160" />
-  </a>
-  <a href="https://www.linkedin.com/in/jubayer-ahmed-774449332/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" width="160" />
-  </a>
-  <a href="tel:+8801313698464">
-    <img src="https://img.shields.io/badge/Call-01313698464-33cc33?logo=phone&logoColor=white" alt="Call" width="160" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-20232A?logo=github&logoColor=white)](https://github.com/jubayerahmed46)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubayer-ahmed-774449332/)   
+[Call Me: tel:+8801313698464](tel:+8801313698464)
 
 ## GitHub Stats  
 <p align="center">
@@ -61,6 +53,4 @@ Let’s connect and share ideas!
 </p>
 
 ### Streaks  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmed46&theme=react&hide_border=true" alt="Jubayer's GitHub Streak" />
-</p>
+
