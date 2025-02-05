@@ -1,44 +1,36 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-  <img src="https://i.ibb.co.com/gZXVt71L/Hello-I-m-Jubayer-1-removebg-preview.png" />
+  <img src="https://i.ibb.co/mKVwpfB/Hello-I-m-Jubayer-removebg-preview.png" alt="Jubayer Ahmed" />
 </a>
-<br>
 
 # Jubayer Ahmed
 **Frontend Developer | Web Developer**
 
 ## About Me
-I am a passionate Frontend Developer with a focus on creating modern, user-friendly web applications. I enjoy problem-solving and continuously improving my skills. I like to create meaningful user experiences through clean and efficient code.
+I am a passionate Frontend Developer who loves to build user-friendly websites. I enjoy solving problems and learning new things in web development to improve my skills.
 
 ## Current Activities
-- Exploring Next.js and its features
-- Working on Nexus News/blog website
-- Learning and applying new JavaScript frameworks
+- Learning how to use React Query in my projects
+- Working on a personal blog using React and Tailwind CSS
+- Learning more about Express.js and MongoDB
+- Trying out JWT for authentication in my apps
 
-## :computer: Technologies that I know
+## Skills
 
-<br>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
+### Frontend
+- <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />
+- <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" alt="CSS" />
+- <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
+- <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
+### Backend
+- <img src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" alt="Express.js" />
+- <img src="https://img.shields.io/badge/MongoDB-4DB33D.svg?logo=mongodb&logoColor=white" alt="MongoDB" />
+- <img src="https://img.shields.io/badge/JSON%20Web%20Token-000000.svg?logo=json-web-tokens&logoColor=white" alt="JWT" />
+
+### Tools
+- <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="Git" />
+- <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-20232A?logo=github&logoColor=white)](https://github.com/jubayerahmed46)
