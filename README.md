@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/bgnh4BY7/Hello-I-m-Jubayer-4.png" alt="Jubayer Banner"/>
+  <img src="https://i.ibb.co.com/CK54srBW/Hello-I-m-Jubayer-5.png"/>
 </p>
 
 # Jubayer Ahmed  
