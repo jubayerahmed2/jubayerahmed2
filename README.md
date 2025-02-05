@@ -1,17 +1,17 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
-<img src="https://i.ibb.co.com/mKVwpfB/Hello-I-m-Jubayer-removebg-preview.png" />
+  <img src="https://i.ibb.co.com/mKVwpfB/Hello-I-m-Jubayer-removebg-preview.png" />
 </a>
-<br >
+<br>
 
 # Jubayer Ahmed
 **Frontend Developer | Web Developer**
 
 ## About Me
-I am a passionate Frontend Developer with a focus on creating modern, user-friendly web applications. I enjoy problem-solving and continuously improving my skills. I strive to create meaningful user experiences through clean and efficient code.
+I am a passionate Frontend Developer with a focus on creating modern, user-friendly web applications. I enjoy problem-solving and continuously improving my skills. I like to create meaningful user experiences through clean and efficient code.
 
 ## Current Activities
 - Exploring Next.js and its features
-- Working on a tourism website using React and Node.js
+- Working on Nexus News/blog website
 - Learning and applying new JavaScript frameworks
 
 ## Skills
