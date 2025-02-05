@@ -16,6 +16,7 @@ I am a passionate Frontend Developer who loves to build user-friendly websites. 
 
 ## Technology that I Use
 
+### Frontend
 <br>
 <p>
   <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
@@ -30,9 +31,13 @@ I am a passionate Frontend Developer who loves to build user-friendly websites. 
 </p>
 
  <br >
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+
+ ### Backend
+<p>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p>
 
 ### Tools
 - <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="Git" />
