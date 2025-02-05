@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/CK54srBW/Hello-I-m-Jubayer-5.png"/>
+  <img src="https://i.ibb.co.com/CK54srBW/Hello-I-m-Jubayer-5.png" alt="Banner Image" width="100%" />
 </p>
 
 # Jubayer Ahmed  
 **Frontend Focused Fullstack Developer**
 
 ## About Me  
-Hi! I'm passionate **Frontend Developer** based in Bangladesh. I focus on creating clean, efficient, and user-friendly websites. My goal is learning and building innovative web applications motivates me to continuously improve my skills and stay updated with the latest industry trends.  
+Hi! I'm a passionate **Frontend Developer** based in Bangladesh. I focus on creating clean, efficient, and user-friendly websites. My goal is to continuously improve my skills and stay updated with the latest industry trends, as I build innovative web applications that solve real-world problems.
 
 ### Currently Working On:  
 - Deepening my understanding of **React Query** for state management.
@@ -18,25 +18,28 @@ Hi! I'm passionate **Frontend Developer** based in Bangladesh. I focus on creati
 
 ### Frontend  
 <p>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" width="40"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" width="40"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" width="40"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" width="40"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" width="40"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" width="40"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" width="40" alt="HTML"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" width="40" alt="CSS"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" width="40" alt="JavaScript"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" width="40" alt="React"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" width="40" alt="TailwindCSS"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" width="40" alt="Firebase"/>
 </p>
 
 ### Backend  
 <p>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" width="40"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" width="40"/>
-  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" width="40"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" width="40" alt="Node.js"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" width="40" alt="Express"/>
+  <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" width="40" alt="MongoDB"/>
 </p>
 
 ### Tools & Platforms  
-- **Git**: Version control  
-- **VS Code**: My preferred code editor  
-- **GitHub**: For managing repositories and collaborating  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="Git" width="40"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="VS Code" width="40"/>
+  <img src="https://img.shields.io/badge/GitHub-20232A?logo=github&logoColor=white" alt="GitHub" width="40"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black" alt="Firebase" width="40"/>
+</p>
 
 ## Connect with Me  
 Let’s connect and share ideas!  
