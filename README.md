@@ -1,6 +1,6 @@
-<a href="https://www.facebook.com/mirhussainmurtaza/">
-  <img src="https://i.ibb.co/mKVwpfB/Hello-I-m-Jubayer-removebg-preview.png" alt="Jubayer Ahmed" />
-</a>
+<p>
+  <img src="https://i.ibb.co.com/QvZQzLxq/Hello-I-m-Jubayer-3.png" />
+</p>
 
 # Jubayer Ahmed
 **Frontend Developer | Web Developer**
