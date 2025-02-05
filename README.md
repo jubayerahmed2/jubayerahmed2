@@ -3,10 +3,10 @@
 </p>
 
 # Jubayer Ahmed  
-**Frontend Developer | Web Developer**  
+**Frontend Focused Fullstack Developer**  
 
 ## About Me  
-Hi! I’m **Jubayer Ahmed**, a passionate **Frontend Developer** based in Bangladesh. I focus on creating clean, efficient, and user-friendly websites. My enthusiasm for learning and building innovative web applications motivates me to continuously improve my skills and stay updated with the latest industry trends.  
+Hi! I'm passionate **Frontend Developer** based in Bangladesh. I focus on creating clean, efficient, and user-friendly websites. My goal is learning and building innovative web applications motivates me to continuously improve my skills and stay updated with the latest industry trends.  
 
 ### Currently Working On:  
 - Deepening my understanding of **React Query** for state management.
@@ -42,8 +42,7 @@ Hi! I’m **Jubayer Ahmed**, a passionate **Frontend Developer** based in Bangla
 Let’s connect and share ideas!  
 
 [![GitHub](https://img.shields.io/badge/GitHub-20232A?logo=github&logoColor=white)](https://github.com/jubayerahmed46)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubayer-ahmed-774449332/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/jubayer_ahmed)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubayer-ahmed-774449332/)   
 
 ## GitHub Stats  
 <p align="center">
