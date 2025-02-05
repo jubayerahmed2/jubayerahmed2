@@ -53,4 +53,7 @@ Let’s connect and share ideas!
 </p>
 
 ### Streaks  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmed46&theme=react&hide_border=true" alt="Jubayer's GitHub Streak" />
+</p>
 
