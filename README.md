@@ -48,19 +48,9 @@ Let’s connect and share ideas!
 ## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jubayerahmed46&show_icons=true&count_private=true&theme=react&hide_border=true" alt="Jubayer's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerahmed46&langs_count=6&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ### Streaks  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmed46&theme=react&hide_border=true" alt="Jubayer's GitHub Streak" />
 </p>
-
-## My Projects
-
-| Project Name      | Description                                          | Responses/Impact  |
-|-------------------|------------------------------------------------------|------------------|
-| **Personal Blog**  | A blog built using **React** and **Tailwind CSS**    | In Progress      |
-| **Web Portfolio**  | Showcasing my work and projects                      | Ongoing          |
-| **React Query App**| A demo app using **React Query** for state management | Under Development|
