@@ -49,11 +49,15 @@ I am a passionate Frontend Developer who loves to build user-friendly websites. 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ## My GitHub Stats
-
+<p align='center'>
+  
 [![Jubayer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayerahmed46&show_icons=true&count_private=true&theme=react&hide_border=true)](https://github.com/jubayerahmed46)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jubayerahmed46&langs_count=6&theme=react&hide_border=true)](https://github.com/jubayerahmed46)
 
+</p>
 ### Streaks
 
-![Jubayer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmed46&theme=react&hide_border=true)
+<p align="center">
+  ![Jubayer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmed46&theme=react&hide_border=true)
+</p>
