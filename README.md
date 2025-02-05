@@ -14,21 +14,31 @@ I am a passionate Frontend Developer with a focus on creating modern, user-frien
 - Working on Nexus News/blog website
 - Learning and applying new JavaScript frameworks
 
-## Skills
+## :computer: Technologies that I know
 
-### Frontend
-- <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />
-- <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" alt="CSS" />
-- <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
+<br>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p><br/>
 
-### Backend
-- <img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" alt="Node.js" />
-- <img src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" alt="Express.js" />
-
-### Tools
-- <img src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" alt="Git" />
-- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-20232A?logo=github&logoColor=white)](https://github.com/jubayerahmed46)
