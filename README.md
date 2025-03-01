@@ -2,71 +2,86 @@
   <img src="./bnr.png" alt="Banner Image" width="100%" />
 </p>
 
-<div align="center">
-  <h1 align="center">Hi , I'm Jubayer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="">
+  <h1 align="">Hi , I'm Jubayer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**A Frontend Focused Fullstack Developer**
+A passionate **Frontend Developer** based in Bangladesh. I focus on creating clean, efficient, and user-friendly websites. My goal is to continuously improve my skills and stay updated with the latest industry trends, as I build innovative web applications that solve real-world problems.
 
-## About Me
+### Currently
 
-Hi! I'm a passionate **Frontend Developer** based in Bangladesh. I focus on creating clean, efficient, and user-friendly websites. My goal is to continuously improve my skills and stay updated with the latest industry trends, as I build innovative web applications that solve real-world problems.
+🔭 Deepening my understanding of **React.js**. <br/>
+✨ Implementing advanced **JWT** for secure authentication in my applications. <br />
+🧑‍🎓 Learning **Mongoose** and And **Next.js**. </br>
+🤓 Always exploring and **learning new things**!
 
-### Currently Working On:
+## 🛠️ Tools & Technology
 
-- Deepening my understanding of **React Query** for state management.
-- Developing a personal blog website using **React** and **Tailwind CSS**.
-- Exploring **Express.js** and **MongoDB** for backend development.
-- Implementing advanced **JWT** for secure authentication in my applications.
+<p align="center"> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+</p>
+ <p align="center"> &emsp;
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>&emsp; 
+<a href="https://tailwindcss.com/" target="_blank">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white">
+</a>
+</p>
 
-🔭 I’m currently working on `a secret projects :-)` <br />
-🌱 I’m currently learning <sub>
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> </sub>. <br />
-👯 I’m looking to collaborate on MVP / Fun Projects and Localization (Bengali). <br />
-🤔 I’m looking for help with Unlimited free mentorship :-) (JK) <br />
-💬 Ask me about: Nothing (ask chatgpt) <br />
-📫 How to reach me: Create an Issue in [this repository](https://github.com/jubayerahmed46/jubayerahmed46/issues/new) <br />
-⚡ Fun fact: 2+2 = 4 <br />
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a>
+</p>
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+</p>
+<p align="center">
+ &emsp;
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> &emsp;
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a> &emsp;
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> &emsp; </sub><br /> </p>
 
-<details open> 
-  <summary><h2>📊 Stats and Activity</h2></summary>
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+</p>
+</p>
+<br/>
 
-  <h3>🔥 Streak Stats</h3>
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/jubayerahmed46/">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jubayerahmed46's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=jubayerahmed46&theme=monokai-metallian&hide_border=true"/>
-    </a>
-<!--     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
+## 🔥 Streak Stats
 
-  <h3>💻 GitHub Profile Stats</h3>
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a href="https://github.com/jubayerahmed46"><img alt="jubayerahmed46's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jubayerahmed46&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/jubayerahmed46"><img alt="jubayerahmed46's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jubayerahmed46&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmed46&theme=algolia" alt="jubayerahmed46" /></p><br>
+
+## 🤝 Connect with me
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/jubayer-ahmed1-cuet/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:jubayerahmed.dev@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/jubayerahmed46"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/jubayerahmed.dev"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	
+	
+</p>
+
+## <b>💻 GitHub Profile Stats</b>
+
   <br/>
-
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-</details>
-
-<!-- github default
-### Hi there 👋
-**jubayerahmed46/jubayerahmed46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <a href="https://github.com/jubayerahmed46/github-readme-stats"><img alt="jubayerahmed46's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jubayerahmed46&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+  </p>
 
 </div>
