@@ -5,14 +5,29 @@
 <div align="">
   <h1 align="">Hi , I'm Jubayer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-A passionate **Frontend Developer** based in Bangladesh. I focus on creating clean, efficient, and user-friendly websites. My goal is to continuously improve my skills and stay updated with the latest industry trends, as I build innovative web applications that solve real-world problems.
+I'm a passionate **Frontend Developer** focusing on building clean, efficient and user-friendly web application that help people daily lives. My vision is to continuously improve my skills in web development and stay updated with the latest industry trends.
 
-### Currently
+## ♻️ Currently
 
-🔭 Deepening my understanding of **React.js**. <br/>
-✨ Implementing advanced **JWT** for secure authentication in my applications. <br />
-🧑‍🎓 Learning **Mongoose** and And **Next.js**. </br>
-🤓 Always exploring and **learning new things**!
+🔭 I'm Deepening my understanding of **React.js**. <br/>
+✨ Learning **Mongoose** and And **Next.js**. </br>
+
+## 🌟 About Me
+
+👋 Hi! I'm Jubayer Ahmed, a **Frontend Developer** passionate about building modern, user-friendly web applications.
+
+🚀 I specialize in **JavaScript**, **React**, and **Tailwind CSS**, using them to create fast, responsive, and visually appealing interfaces.
+
+💡 I also have a good understanding of backend technologies like **Node.js**, **Express.js**, and **MongoDB**, and I'm currently learning **Mongoose** and **Next.js** to expand my skill set.
+
+## 🤝 Connect with me
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/jubayer-ahmed1/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &emsp; 
+	<a href="mailto:jubayerahmed.dev@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> &emsp; 
+	<a href="https://github.com/jubayerahmed46"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a> &emsp; 
+  <a href="https://www.facebook.com/jubayerahmed.dev"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
 
 ## 🛠️ Tools & Technology
 
@@ -49,21 +64,6 @@ A passionate **Frontend Developer** based in Bangladesh. I focus on creating cle
   &emsp;
    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-## 🤝 Connect with me
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/jubayer-ahmed1/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &emsp; 
-	<a href="mailto:jubayerahmed.dev@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> &emsp; 
-	<a href="https://github.com/jubayerahmed46"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a> &emsp; 
-  <a href="https://www.facebook.com/jubayerahmed.dev"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	
-	
-</p>
 
 ## 🔥 Streak Stats
 
@@ -73,5 +73,9 @@ A passionate **Frontend Developer** based in Bangladesh. I focus on creating cle
 <br/>
   &nbsp;
   </p>
+
+---
+
+⭐️ From [Jubayer Ahmed](https://github.com/jubayerahmed46)
 
 </div>
