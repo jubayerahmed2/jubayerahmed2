@@ -56,14 +56,14 @@
 
   <h2>🔥 Streak Stats</h2>
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerahmed46&theme=algolia" alt="jubayerahmed46" /></p>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-jubayer&theme=algolia" alt="mr-jubayer" /></p>
 
   <p align="center">
-    <a href="https://github.com/jubayerahmed46/github-readme-stats"><img alt="jubayerahmed46's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jubayerahmed46&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/mr-jubayer/github-readme-stats"><img alt="mr-jubayer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mr-jubayer&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   </p>
 
   <hr>
 
-  <p>⭐️ From <a href="https://github.com/jubayerahmed46">Jubayer Ahmed</a></p>
+  <p>⭐️ From <a href="https://github.com/mr-jubayer">Jubayer</a></p>
 
 </div>
