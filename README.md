@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img src="./bnr.png" alt="Banner Image" width="100%" />
+  <img src="./bnr2.png" alt="Banner Image" width="100%" />
 
   <h1>Hi, I'm Jubayer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
