@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img src="./bnr2.png_no" alt="Banner Image" width="100%" />
+  <!--<img src="./bnr2.png" alt="Banner Image" width="100%" />--> 
 
   <h1>Hi, I'm Jubayer Ahmed</h1>
 
