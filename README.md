@@ -8,18 +8,11 @@
     I'm a passionate <strong>Frontend Developer</strong> focusing on building clean, efficient, and user-friendly web applications that help people in their daily lives. My vision is to continuously improve my skills in web development and stay updated with the latest industry trends.
   </p>
 
-  <h2>Currently</h2>
-
-  <p>
-    🔭 Deepening my understanding of <strong>React.js</strong>.<br/>
-    ✨ Learning <strong>Mongoose</strong> and <strong>Next.js</strong>.
-  </p>
-
   <h2>About Me</h2>
 <div>
-    👋 Hi! I'm Jubayer Ahmed, a <strong>Frontend Developer</strong> passionate about building modern, user-friendly web applications. </br>
-    🚀 I specialize in <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong>, using them to create fast, responsive, and visually appealing interfaces. </br>
-    💡 I also have a good understanding of backend technologies like <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>
+     Hi! I'm Jubayer Ahmed, a <strong>Frontend Developer</strong> passionate about building modern, user-friendly web applications. </br>
+     I specialize in <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong>, using them to create fast, responsive, and visually appealing interfaces. </br>
+     I also have a good understanding of backend technologies like <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>
 </div>
   <h2>Connect with Me</h2>
 
