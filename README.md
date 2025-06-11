@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img src="./807ea1d026cef25e7e8f7d589c00cfd1.jpg" alt="Banner Image" width="100%" /> 
+  <!--<img src="./807ea1d026cef25e7e8f7d589c00cfd1.jpg" alt="Banner Image" width="100%" /> -->
 
   <h1>Hi, I'm Jubayer Ahmed</h1>
 
