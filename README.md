@@ -14,7 +14,11 @@
      I specialize in <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong>, using them to create fast, responsive, and visually appealing interfaces. </br>
      I also have a good understanding of backend technologies like <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>
 </div>
-![](https://hit.yhype.me/github/profile?account_id=158416334)
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?account_id=1849174)
   <h2>Connect with Me</h2>
 
   <p align='center'>
