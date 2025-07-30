@@ -16,9 +16,10 @@
 </div>
 
 [Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+[GitHub Profile Views Counter]: https://github.com/mr-jubayer/github-profile-views-counter
 
-![](https://hit.yhype.me/github/profile?account_id=1849174)
+![](https://hit.yhype.me/github/profile?account_id=158416334)
+
   <h2>Connect with Me</h2>
 
   <p align='center'>
