@@ -4,16 +4,12 @@
 
   <h1>Hi, I'm Jubayer Ahmed</h1>
 
-  <p>
-    I'm a passionate <strong>Frontend Developer</strong> focusing on building clean, efficient, and user-friendly web applications that help people in their daily lives. My vision is to continuously improve my skills in web development and stay updated with the latest industry trends.
-  </p>
 
-  <h2>About Me</h2>
-<div>
+<p>
      Hi! I'm Jubayer Ahmed, a <strong>Frontend Developer</strong> passionate about building modern, user-friendly web applications. </br>
      I specialize in <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong>, using them to create fast, responsive, and visually appealing interfaces. </br>
      I also have a good understanding of backend technologies like <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>
-</div>
+</p>
 
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/mr-jubayer/github-profile-views-counter
