@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   <!--<img src="./807ea1d026cef25e7e8f7d589c00cfd1.jpg" alt="Banner Image" width="100%" /> -->
 
