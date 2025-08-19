@@ -11,11 +11,6 @@
      I also have a good understanding of backend technologies like <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>
 </p>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/mr-jubayer/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?account_id=158416334)
-
   <h2>Connect with Me</h2>
 
   <p align='center'>
