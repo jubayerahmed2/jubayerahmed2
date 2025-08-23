@@ -17,7 +17,7 @@
 
 ### Hi there 👋,
 <p align="justify">
-  <samp>I'm <b>Jubayer Ahmed (Acehart)</b> - a NodeJS Backend Developer, Tech Enthusiast and spiritual guy from Sylhet, Bangladesh. I mostly deal with web development with HTML5/CSS/Javascript, React and NodeJS, software development stack in these days. I have 1+ years of development experience in designing,  development and implementing of web applications, using JS based technologies.
+  <samp>I'm <b>Jubayer Ahmed </b> - a NodeJS Backend Developer, Tech Enthusiast and spiritual guy from Sylhet, Bangladesh. I mostly deal with web development with HTML5/CSS/Javascript, React and NodeJS, software development stack in these days. I have 1+ years of development experience in designing,  development and implementing of web applications, using JS based technologies.
   </samp>
   <br/>
 </p>
