@@ -1,15 +1,26 @@
 <div align="left">
 
-  <!--<img src="./807ea1d026cef25e7e8f7d589c00cfd1.jpg" alt="Banner Image" width="100%" /> -->
-
-  <h1>Hi, I'm Jubayer Ahmed</h1>
-
-
 <p>
-     Hi! I'm Jubayer Ahmed, a <strong>Frontend Developer</strong> passionate about building modern, user-friendly web applications. </br>
-     I specialize in <strong>JavaScript</strong>, <strong>React</strong>, and <strong>Tailwind CSS</strong>, using them to create fast, responsive, and visually appealing interfaces. </br>
-     I also have a good understanding of backend technologies like <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>
+  <a target="_blank" href="https://javiercanon.com">
+    <img src="https://img.shields.io/badge/Website-javiercanon.com-informational?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://twitter.com/JavierCanon">
+    <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a target="_blank" href="mailto:javier@javiercanon.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
+  </a>
 </p>
+  
+![JavierCanon](Javier-Canon-Top-Banner-1500x500.jpg)
+
+### Hi there 👋,
+<p align="justify">
+  <samp>I'm <b>Javier Cañon (Acehart)</b> - a .NET Developer, Tech Enthusiast, Software Architect and spiritual guy from Colombia, South America. I mostly deal with web development with HTML5/CSS/Javascript, ASP.NET and OpenAPI, software development stack in these days. I have 15+ years of development experience in architecting, designing,  development and implementing of web and desktop applications, using .NET and Web technologies.
+  </samp>
+  <br/>
+</p>
+
 
   <h2>Connect with Me</h2>
 
