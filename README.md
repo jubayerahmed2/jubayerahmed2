@@ -1,22 +1,22 @@
 <div align="left">
 
 <p>
-  <a target="_blank" href="https://javiercanon.com">
+  <a target="_blank" href="https://jubayerahmedv1.com">
     <img src="https://img.shields.io/badge/Website-javiercanon.com-informational?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a target="_blank" href="https://twitter.com/JavierCanon">
+  <a target="_blank" href="https://facebook/jubayerahmed.dev">
     <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a target="_blank" href="mailto:javier@javiercanon.com">
+  <a target="_blank" href="mailto:jubayherahmed.dev@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
 </p>
   
-![JavierCanon](Javier-Canon-Top-Banner-1500x500.jpg)
+![Jubayer Ahmed](https://i.pinimg.com/736x/62/b0/a0/62b0a032b4d86127eaa200dc44dd59cb.jpg)
 
 ### Hi there 👋,
 <p align="justify">
-  <samp>I'm <b>Javier Cañon (Acehart)</b> - a .NET Developer, Tech Enthusiast, Software Architect and spiritual guy from Colombia, South America. I mostly deal with web development with HTML5/CSS/Javascript, ASP.NET and OpenAPI, software development stack in these days. I have 15+ years of development experience in architecting, designing,  development and implementing of web and desktop applications, using .NET and Web technologies.
+  <samp>I'm <b>Jubayer Ahmed (Acehart)</b> - a NodeJS Backend Developer, Tech Enthusiast and spiritual guy from Sylhet, Bangladesh. I mostly deal with web development with HTML5/CSS/Javascript, React and NodeJS, software development stack in these days. I have 1+ years of development experience in designing,  development and implementing of web applications, using JS based technologies.
   </samp>
   <br/>
 </p>
