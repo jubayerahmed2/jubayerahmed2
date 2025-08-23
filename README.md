@@ -12,7 +12,7 @@
   </a>
 </p>
   
-![Jubayer Ahmed](https://i.pinimg.com/736x/62/b0/a0/62b0a032b4d86127eaa200dc44dd59cb.jpg)
+<img src="https://i.pinimg.com/736x/62/b0/a0/62b0a032b4d86127eaa200dc44dd59cb.jpg" height="300" width="100%">
 
 ### Hi there 👋,
 <p align="justify">
