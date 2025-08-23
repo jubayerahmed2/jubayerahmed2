@@ -5,9 +5,8 @@
     <a href="https://www.linkedin.com/in/jubayer-ahmed1/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:jubayerahmed.dev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://github.com/jubayerahmed46"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.facebook.com/jubayerahmed.dev"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-     <a target="_blank" href="mailto:jubayherahmed.dev@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-0078D4.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
+     <a target="_blank" href="https://javiercanon.com">
+    <img src="https://img.shields.io/badge/Website-javiercanon.com-informational?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   </p>
 
