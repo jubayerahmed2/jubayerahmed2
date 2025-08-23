@@ -1,5 +1,5 @@
 <div align="left">
-
+<samp>
 
   <p>
     <a href="https://www.linkedin.com/in/jubayer-ahmed1/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -48,5 +48,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-jubayer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="176" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-jubayer&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
+</samp>
 </div>
