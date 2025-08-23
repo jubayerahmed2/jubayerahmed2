@@ -1,5 +1,5 @@
 <div align="left">
-<samp>
+
 
   <p>
     <a href="https://www.linkedin.com/in/jubayer-ahmed1/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -26,7 +26,7 @@
 
 
   <h2><samp> Tools & Technologies </samp></h2>
-
+<samp>
   <p align='center'>
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
@@ -38,7 +38,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
     <a href="#"><img src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
     <a href="#"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></a></samp>
   </p>
 
   <h2> <samp> Streak Stats </samp></h2>
@@ -48,5 +48,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-jubayer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="176" alt="languages graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-jubayer&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-</samp>
+
 </div>
