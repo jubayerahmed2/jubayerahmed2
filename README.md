@@ -1,6 +1,5 @@
 <div align="left">
 
-
   <p>
      <a target="_blank" href="https://jubayer-ahmed.vercel.app">
     <img src="https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=github&logoColor=white" />
@@ -11,19 +10,15 @@
     
   </p>
 
-  
-  
 <img src="https://i.pinimg.com/736x/62/b0/a0/62b0a032b4d86127eaa200dc44dd59cb.jpg" height="300" width="100%">
 
 ### Hi there 👋,
+
 <p align="justify">
   <samp>I'm <b>Jubayer Ahmed </b> - a NodeJS Backend Developer, Tech Enthusiast and spiritual guy from Sylhet, Bangladesh. I mostly deal with web development with HTML5/CSS/Javascript, React and NodeJS, software development stack in these days. I have 1+ years of development experience in designing,  development and implementing of web applications, using JS based technologies.
   </samp>
   <br/>
 </p>
-
-
-
 
   <h2><samp> Tools & Technologies </samp></h2>
 <samp>
@@ -46,6 +41,19 @@
 <div align="center">
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mr-jubayer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="176" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-jubayer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="176" alt="languages graph"  /> -->
+  
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zahid-official&show_icons=true&theme=react&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app?user=zahid-official&theme=react&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-jubayer&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
