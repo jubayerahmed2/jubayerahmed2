@@ -46,10 +46,10 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zahid-official&show_icons=true&theme=react&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=mr-jubayer&show_icons=true&theme=react&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app?user=zahid-official&theme=react&hide_border=true" alt="GitHub Streak" />
+      <img src="https://nirzak-streak-stats.vercel.app?user=mr-jubayer&theme=react&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
